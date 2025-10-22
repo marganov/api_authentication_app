@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pytest
+PyJWT
+pydantic-settings
+passlib
+slowapi
